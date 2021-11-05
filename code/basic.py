@@ -4,6 +4,7 @@ from PIL import Image
 import imagehash
 import time
 
+# this is a second
 ##### Assign the Videos  #####
 cap1 = cv2.VideoCapture('../data/vid1.mp4')
 cap2 = cv2.VideoCapture('../data/vid2.mp4')
